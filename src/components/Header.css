@@ -1,0 +1,19 @@
+.header {
+	background: #4A90E2;
+	padding: 15px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.perfil {
+	margin-right: 15px;
+	color: #FFF;
+	font-weight: bold;
+	font-size: 18px;
+}
+
+.profile {
+	display: flex;
+	margin-right: 60px;
+}
